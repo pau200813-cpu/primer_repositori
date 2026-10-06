@@ -24,9 +24,11 @@ Obrir la previsualització amb Ctrl+Shift+V.
 Revisar que els títols, llistes, taules, enllaços i imatges es mostren correctament.
 
 ## Comprovacions
-
-- [ ] Primera comprovació
-- [ ] Segona comprovació
+- [ ] El document s'ha guardat correctament.
+- [ ] La previsualització mostra bé els títols i les llistes.
+- [ ] La taula es visualitza correctament.
+- [ ] L'enllaç funciona.
+- [ ] El procediment s'ha revisat.
 
 ## Incidències i solucions
 
