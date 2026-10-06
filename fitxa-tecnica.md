@@ -33,8 +33,11 @@ Revisar que els títols, llistes, taules, enllaços i imatges es mostren correct
 ## Incidències i solucions
 
 | Incidència | Solució |
-|---         |---      |
-| Exemple    | Exemple |
+|---|---|
+| Git no és reconegut pel terminal | Instal·lar Git i reiniciar el terminal. |
+| La previsualització de Markdown no es mostra correctament | Revisar la sintaxi Markdown i tornar a obrir la previsualització. |
+| La imatge no apareix | Comprovar que la ruta de la imatge és correcta. |
+| Git detecta canvis inesperats | Executar `git diff` per revisar els canvis. |
 
 ## Recursos
 
