@@ -21,11 +21,11 @@ Instal·lar Visual Studio Code en un ordinador i comprovar que funciona correcta
 7. Comprovar els canvis amb Git.
 
 ## Comprovacions
-- [ ] El document s'ha guardat correctament.
-- [ ] La previsualització mostra bé els títols i les llistes.
-- [ ] La taula es visualitza correctament.
-- [ ] L'enllaç funciona.
-- [ ] El procediment s'ha revisat.
+- [X] El document s'ha guardat correctament.
+- [X] La previsualització mostra bé els títols i les llistes.
+- [X] La taula es visualitza correctament.
+- [X] L'enllaç funciona.
+- [X] El procediment s'ha revisat.
 
 ## Incidències i solucions
 
