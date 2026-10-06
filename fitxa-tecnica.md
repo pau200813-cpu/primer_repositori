@@ -4,24 +4,21 @@
 Instal·lar Visual Studio Code en un ordinador i comprovar que funciona correctament per poder utilitzar-lo com a editor de codi i documentació tècnica en format Markdown.
 
 ## Materials
-Ordinador amb connexió a Internet.
-Sistema operatiu Windows, Linux o macOS.
-Visual Studio Code.
-Accés a un repositori Git local.
-Git instal·lat i configurat.
+- Ordinador.
+- Connexió a Internet.
+- Visual Studio Code.
+- Git instal·lat.
+- Compte de GitHub.
+- Repositori de pràctiques.
 
 ## Procediment
-Accedir a la pàgina oficial de descàrrega de Visual Studio Code.
-Descarregar la versió adequada per al sistema operatiu.
-Executar l'instal·lador i seguir les instruccions.
-Obrir Visual Studio Code una vegada finalitzada la instal·lació.
-Comprovar que Git està instal·lat obrint un terminal i executant:
-git --version
-Crear o obrir la carpeta del repositori de pràctiques.
-Crear dins del repositori el fitxer fitxa-tecnica.md.
-Escriure la documentació utilitzant sintaxi Markdown.
-Obrir la previsualització amb Ctrl+Shift+V.
-Revisar que els títols, llistes, taules, enllaços i imatges es mostren correctament.
+1. Obrir Visual Studio Code.
+2. Obrir la carpeta del repositori.
+3. Crear el fitxer `fitxa-tecnica.md`.
+4. Escriure la documentació.
+5. Guardar els canvis.
+6. Revisar la previsualització.
+7. Comprovar els canvis amb Git.
 
 ## Comprovacions
 - [ ] El document s'ha guardat correctament.
